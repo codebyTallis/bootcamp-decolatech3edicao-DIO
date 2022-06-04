@@ -34,6 +34,7 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Seja Protagonista Neste Bootcamp](https://www.dio.me/certificate/90B6216F)
 - [Introdução à Programação e Pensamento Computacional](https://www.dio.me/certificate/A04D652B)
 - [Introdução ao Git e ao Github](https://www.dio.me/certificate/4D78156F)
+- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://www.dio.me/certificate/0BFDEE35)
 
 #### Módulo 2 - HTML & CSS3
 - [Primeiros passos para desenvolvimento web](https://www.dio.me/certificate/BE176028)
