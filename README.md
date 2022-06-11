@@ -13,6 +13,8 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 
 #### Sintaxes úteis:
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Aprenda HTML](https://www.w3schools.com/html/)
+- [Aprenda CSS](https://www.w3schools.com/css/)
 
 ## Conteúdo Prático
 #### Módulo 1 - Conteúdo de abertura:
