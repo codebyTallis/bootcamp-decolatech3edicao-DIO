@@ -13,6 +13,8 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 
 #### Sintaxes úteis:
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Aprenda HTML](https://www.w3schools.com/html/)
+- [Aprenda CSS](https://www.w3schools.com/css/)
 
 ## Conteúdo Prático
 #### Módulo 1 - Conteúdo de abertura:
@@ -20,7 +22,7 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Repositório como desafio do curso de Git/GitHub](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO)
 
 #### Módulo 2 - HTML & CSS3
-- PROJETOS EM PROGRESSO
+- [Primeiro site criado com HTML e CSS](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO/tree/main/M%C3%B3dulo%202%20-%20HTML%20%26%20CSS3/Primeiro%20site%20HTML%20e%20CSS)
 
 #### Módulo 3 - Javascript
 - PROJETOS EM PROGRESSO
