@@ -10,12 +10,12 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Site Git](https://git-scm.com/)
 - [Site Github](https://github.com/)
 - [Site VSCode](https://code.visualstudio.com/)
-- [Curso extra JS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
-#### Sintaxes úteis:
+#### Links úteis:
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Aprenda HTML](https://www.w3schools.com/html/)
 - [Aprenda CSS](https://www.w3schools.com/css/)
+- [Curso extra JS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 ## Conteúdo Prático
 #### Módulo 1 - Conteúdo de abertura:
