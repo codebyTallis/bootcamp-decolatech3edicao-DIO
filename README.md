@@ -10,6 +10,7 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Site Git](https://git-scm.com/)
 - [Site Github](https://github.com/)
 - [Site VSCode](https://code.visualstudio.com/)
+- [Curso extra JS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
 
 #### Sintaxes úteis:
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
@@ -25,7 +26,9 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Primeiro site criado com HTML e CSS](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO/tree/main/M%C3%B3dulo%202%20-%20HTML%20%26%20CSS3/Primeiro%20site%20HTML%20e%20CSS)
 
 #### Módulo 3 - Javascript
-- PROJETOS EM PROGRESSO
+- [Contador](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO/tree/main/M%C3%B3dulo%203%20-%20Javascript/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20JavaScript/Contador)
+- [Desafio To-do-list](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO/tree/main/M%C3%B3dulo%203%20-%20Javascript/1%20-%20Introdu%C3%A7%C3%A3o%20ao%20JavaScript/to-do%20list)
+- [Calculadora com puro JavaScript](https://github.com/codebyTallis/bootcamp-decolatech3edicao-DIO/tree/main/M%C3%B3dulo%203%20-%20Javascript/2%20-%20Sintaxe%20B%C3%A1sica%20em%20Javascript/6%20-%20Aprofundando%20em%20fun%C3%A7%C3%B5es)
 
 #### Módulo 4 - React Native
 - PROJETOS EM PROGRESSO
@@ -44,8 +47,8 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 
 #### Módulo 3 - Javascript
 - [IDE Instalação e Configuração (Visual Studio Code)](https://www.dio.me/certificate/DC326D4B)
-- Introdução ao JavaScript
-- Sintaxe Básica em Javascript
+- [Introdução ao JavaScript](https://www.dio.me/certificate/9D61E85A)
+- [Sintaxe Básica em Javascript](https://www.dio.me/certificate/482563FE)
 - [Sintaxe e Operadores](https://www.dio.me/certificate/726AAD76)
 - [Variáveis e Tipos](https://www.dio.me/certificate/0161CE54)
 - Funções
@@ -53,6 +56,7 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - Javascript Assíncrono
 - Orientação a objetos
 - Manipulando a D.O.M. com Javascript
+- [Certificado do Módulo](https://www.dio.me/certificate/0E488316)
 
 #### Módulo 4 - React Native
 - Introdução ao React Native
