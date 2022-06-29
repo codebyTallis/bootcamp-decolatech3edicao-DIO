@@ -51,11 +51,11 @@ Um dos nossos valores enquanto empresa é: acreditamos que todos têm sua import
 - [Sintaxe Básica em Javascript](https://www.dio.me/certificate/482563FE)
 - [Sintaxe e Operadores](https://www.dio.me/certificate/726AAD76)
 - [Variáveis e Tipos](https://www.dio.me/certificate/0161CE54)
-- Funções
-- Debugging e Error Handling
-- Javascript Assíncrono
-- Orientação a objetos
-- Manipulando a D.O.M. com Javascript
+- [Funções](https://www.dio.me/certificate/CCBA9894)
+- [Debugging e Error Handling](https://www.dio.me/certificate/31FA2527)
+- [Javascript Assíncrono](https://www.dio.me/certificate/451A5461)
+- [Orientação a objetos](https://www.dio.me/certificate/1D2465B2)
+- [Manipulando a D.O.M. com Javascript](https://www.dio.me/certificate/20AB2FBB)
 - [Certificado do Módulo](https://www.dio.me/certificate/0E488316)
 
 #### Módulo 4 - React Native
